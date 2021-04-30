@@ -1,0 +1,1 @@
+export const apiConfig = '476d30e25989ad0a6a8102a5924b4752'
